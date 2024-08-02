@@ -53,4 +53,8 @@ The project is divided into two primary components: Data Engineering and
 
 ## Installation
 ### Prerequisites
+- Python (version 3.6 or later)
+- AWS S3
+- Kafka Cluster
+- Tableau or Power BI
 ### test
